@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @badrEladraoui
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React && spring
+- 🌱 I’m currently learning React && spring && Next.js
 - 📫 How to reach me: eladraoui.badr@gmail.com
 
 <!---
